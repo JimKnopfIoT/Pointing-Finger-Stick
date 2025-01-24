@@ -14,6 +14,7 @@ Requirements:
 ## View
 <p align="center">
 <img src="prusa-slicer_dISUzNszLY.png" width="220"> 
-<img src="IMG_20250124_175504.jpg" width="220"> 
+<img src="IMG_20250124_175447.jpg" width="220">
 <img src="IMG_20250124_175525.jpg" width="220">
+<img src="IMG_20250124_175504.jpg" width="220"> 
 </p> 
