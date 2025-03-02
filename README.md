@@ -1,5 +1,5 @@
 # Pointing-Finger-Stick
-3D printable Pointing Finger Stick. Created with Rhino8
+3D printable Pointing Finger Stick. Created with Rhino 8.
 
 The guy with the swiss accent on youtube often uses a selfmade pointing-finger-stick to point out details in his videos.
 I found this very usefull because i often take pictures when repairing electronic or makeing DIY IoT projects.
